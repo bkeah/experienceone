@@ -19,4 +19,4 @@ paul paul paul")
 - [ ] paul
 - [ ] check if you not so cool
 - [ ] yeah this is a really cool check box
-- [ ] check if u so cool
+- [x] check if u so cool
